@@ -53,10 +53,10 @@ This script generates the volatility-motivation figure reported as **Figure 2** 
 
 The script downloads price data and computes rolling volatility for four episodes of market exuberance or stress:
 
-- NVIDIA during the recent AI cycle
+- NVIDIA during the recent AI cycle (2022 onwards)
 - Natural gas around the 2007--09 crisis period
 - Bitcoin during the 2020--21 crypto run-up
-- Cocoa during the recent commodity surge
+- Cocoa during the very recent commodity surge
 
 The purpose is to show that volatility is not well described by a fixed-scale homoskedastic specification during periods of exuberance and stress.
 
@@ -90,7 +90,7 @@ File: [`Historical_Comparison_PWY.R`](https://github.com/AbirS2026/Double-LOcal-
 
 This script generates the historical bubble diagnostics and the comparison between the proposed stochastic-volatility robust diagnostic and a homoskedastic PWY-type rule.
 
-The first part of the script produces **Figure 4**, which plots historical bubble candidates and the detected price-exuberance windows. The historical examples include the U.S. housing boom, the crude-oil run-up around the subprime crisis, the late-1990s Nasdaq technology bubble, and Bitcoin during the 2020--21 crypto cycle.
+The first part of the script produces **Figure 4**, which plots historical bubble candidates and the detected price-exuberance windows. The historical examples include the U.S. housing boom, the crude-oil run-up around / just after the subprime crisis, the late-1990s Nasdaq technology bubble, and Bitcoin during the 2020--21 crypto cycle.
 
 The second part of the script produces **Table 3**, which compares bubble classifications from the stochastic-volatility robust diagnostic and the homoskedastic PWY-type diagnostic across canonical bubble episodes and recent comparison windows.
 
@@ -182,7 +182,7 @@ Because Yahoo Finance and FRED data may be updated or revised over time, exact n
 
 ## Related Applied Work
 
-The historical bubble and date-stamping motivation is connected to the companion applied paper:
+The historical bubble and date-stamping motivation is connected to the companion applied date-stamping paper:
 
 **Is There an AI Bubble? Robust Date-Stamping for Periods of Exuberance**  
 Abir Sarkar and Martin T. Wells  
@@ -194,7 +194,7 @@ That paper focuses on robust date-stamping of bubble origination and collapse, w
 
 ## Citation
 
-If you use this repository, please cite the methodological paper:
+If you find this repository useful, please cite our methodological paper:
 
 ```bibtex
 @article{sarkar2025double,
@@ -205,7 +205,7 @@ If you use this repository, please cite the methodological paper:
 }
 ```
 
-Please also cite the companion applied paper when using the historical bubble and date-stamping motivation:
+Also, to learn more on the applied paper when using the historical bubble and date-stamping motivation:
 
 ```bibtex
 @article{sarkar2026there,
