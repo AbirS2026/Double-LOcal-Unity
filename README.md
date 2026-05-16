@@ -25,12 +25,7 @@ Relevant paper outputs:
 - Table 1: KS diagnostics for the nearly stationary statistic
 - Table 2: KS diagnostics for the mildly explosive statistic
 
-Main outputs:
 
-```text
-table1_near_stationary_ks.csv
-table2_mild_explosive_ks.csv
-```
 
 ---
 
