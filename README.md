@@ -41,12 +41,7 @@ Relevant paper output:
 
 - Figure 1
 
-Main outputs:
 
-```text
-diagnostic_normal_cauchy_beta_near_0.1_beta_exp_0.1.pdf
-diagnostic_normal_cauchy_beta_near_0.1_beta_exp_0.1.png
-```
 
 ---
 
@@ -69,12 +64,7 @@ Relevant paper output:
 
 - Figure 2
 
-Main outputs:
 
-```text
-figures/volatility_motivation_2x2_price_rolling_sd.pdf
-figures/volatility_motivation_2x2_price_rolling_sd.png
-```
 
 ---
 
@@ -90,17 +80,7 @@ Relevant paper output:
 
 - Figure 3
 
-Main outputs:
 
-```text
-figures/commodity_delta_gamma_two_regimes.pdf
-figures/commodity_delta_gamma_two_regimes.png
-figures/global_real_estate_delta_gamma_two_regimes.pdf
-figures/global_real_estate_delta_gamma_two_regimes.png
-
-tables/commodity_delta_gamma.csv
-tables/global_real_estate_delta_gamma.csv
-```
 
 ---
 
@@ -119,17 +99,7 @@ Relevant paper outputs:
 - Figure 4
 - Table 3
 
-Main outputs:
 
-```text
-figures/historical_bubble_candidates_2x2.pdf
-figures/historical_bubble_candidates_2x2.png
-
-tables/historical_bubble_candidates_results.csv
-tables/sv_adf_vs_pwy_canonical_vs_recent.csv
-tables/table3_canonical_recent_comparison.csv
-tables/table3_canonical_recent_comparison.tex
-```
 
 ---
 
