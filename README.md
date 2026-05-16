@@ -238,5 +238,4 @@ Yahoo Finance data are downloaded dynamically by the empirical scripts. Since ad
 For questions, please contact:
 
 **Abir Sarkar**  
-Cornell University  
-`as4458@cornell.edu`
+Cornell University  `as4458@cornell.edu`
