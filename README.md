@@ -99,6 +99,15 @@ Relevant paper outputs:
 - Figure 4
 - Table 3
 
+### 2. Robustness diagnostics
+
+File: [`robustness_diagnostics.py`](https://github.com/AbirS2026/Double-LOcal-Unity/blob/main/robustness_diagnostics.py)
+
+This script reports additional finite-sample robustness checks for the Monte Carlo diagnostics in Tables 1 and 2.
+
+It examines two departures from the baseline design: non-Gaussian return innovations using standardized Student-\(t_5\) errors, and alternative positive initial volatility levels \(\sigma_0\). For each case, it recomputes the KS diagnostics in both the nearly stationary and mildly explosive regimes and compares the results with the corresponding Gaussian and Cauchy limits.
+
+
 
 
 ---
