@@ -105,8 +105,11 @@ File: [`robustness_diagnostics.py`](https://github.com/AbirS2026/Double-LOcal-Un
 
 This script reports additional finite-sample robustness checks for the Monte Carlo diagnostics in Tables 1 and 2.
 
-It examines two departures from the baseline design: non-Gaussian return innovations using standardized Student-\(t_5\) errors, and alternative positive initial volatility levels \(\sigma_0\). For each case, it recomputes the KS diagnostics in both the nearly stationary and mildly explosive regimes and compares the results with the corresponding Gaussian and Cauchy limits.
+It examines two departures from the baseline design: non-Gaussian return innovations using different error distributions, and alternative positive initial volatility levels. For each case, it recomputes the KS diagnostics in both the nearly stationary and mildly explosive regimes and compares the results with the corresponding Gaussian and Cauchy limits.
 
+Relevant paper outputs:
+
+- Table 5 
 
 
 
